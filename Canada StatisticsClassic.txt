@@ -1,0 +1,8 @@
+Country Name : CanadaCases : 
+        4,946,090        
+
+    Deaths : 
+        59,034
+    Recovered : 
+        3,927,670
+    
