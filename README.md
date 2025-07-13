@@ -6,7 +6,8 @@ This RPA bot allows the user to retrieve real-time COVID-19 statistics for any c
 - Automated web navigation and scraping using RPA
 - Extracts total cases, deaths, and recovered numbers
 - Displays the data in a structured format
-<img width="560" height="447" alt="Screenshot 2025-07-13 183213" src="https://github.com/user-attachments/assets/26f09fe1-9f2f-4f6a-b066-7bf6aec6c33f" />
+<img width="1907" height="938" alt="Screenshot 2025-07-13 184552" src="https://github.com/user-attachments/assets/039c6025-d490-4c3e-986a-33578ce5fc04" />
+
 
 
 ## Technologies Used:
